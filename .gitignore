@@ -1,3 +1,5 @@
 # Project exclude paths
 /evaluator.js
 /evaluator.js.map
+/package-lock.json
+/node_modules/
